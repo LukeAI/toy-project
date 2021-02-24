@@ -17,7 +17,7 @@ import sys
 
 
 # Add operand1 to operand2
-def add(operand1, operand2):
+def addition(operand1, operand2):
     return operand1 + operand2
 
 
