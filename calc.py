@@ -18,7 +18,7 @@ import sys
 
 # Add operand1 to operand2
 def add(operand1, operand2):
-    pass
+    return operand1 + operand2
 
 
 # Subtract operand2 from operand1
